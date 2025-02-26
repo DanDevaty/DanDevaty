@@ -2,12 +2,15 @@
 
 I'm a self-motivated developer exploring full-stack development.  
 
-- 🔭 I’m currently working on a **Django-React app**  
-- 🌱 I’m currently learning **React, Django, and C#**  
-- 👯 I’m looking to collaborate on **open-source projects**  
-- 🤔 I’m looking for help with **advanced React patterns & Django optimization**  
-- 💬 Ask me about **Python, Django, or Git**  
-- 📫 How to reach me: devatda@student.uzlabina.cz
-- ⚡ Fun fact: I love breaking things just to fix them again 😅  
+### 🔹 About Me  
+- 🔭 Currently working on a **Django-React app**  
+- 🌱 Learning **React, Django, Python, PHP, and C#**  
+- 🛠 Skilled in **HTML, Git/GitHub, and basic Linux**  
+- 🚀 Passionate about building, breaking & fixing things 😅  
+
+### 🔹 Tech Stack  
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Python (Django), PHP, C#  
+**Tools & Other:** Git, GitHub, Linux basics  
 
 
