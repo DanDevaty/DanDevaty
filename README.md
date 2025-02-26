@@ -13,7 +13,7 @@ I'm a self-motivated developer exploring full-stack development.
 **Backend:** Python (Django)
 **Tools & Other:** Git, GitHub, Linux basics  
 
-### 🔹 How to reach my
+### 🔹 How to reach me
 - devatda@student.uzlabina.cz
 
 ### 🔹 Favorite Quote  
