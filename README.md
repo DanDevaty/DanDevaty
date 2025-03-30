@@ -4,8 +4,8 @@ I'm a self-motivated developer exploring full-stack development.
 
 ### 🔹 About Me  
 - 🔭 Currently working on a **Django-React app**  
-- 🌱 Learning **React, Django, Python, PHP, MySQL, and C#**  
-- 🛠 Skilled in **HTML, Git/GitHub, and basic Linux**  
+- 🌱 Learning **React, Django, Python, PHP, Git/GitHub, and C#**  
+- 🛠 Skilled in **HTML, and basic Linux**  
 - 🚀 Passionate about building, breaking & fixing things 😅  
 
 ### 🔹 Tech Stack  
