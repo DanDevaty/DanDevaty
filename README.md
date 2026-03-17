@@ -16,12 +16,12 @@
 I build fast, AI-powered MVPs and automation tools for small businesses and startups.
 No bloated agencies. No endless timelines. Just results — in days.
 
-| 🛠 Service | ⏱ Delivery | 💰 From |
-|---|---|---|
-| Landing page + AI chatbot | 2–3 days | 8 000 CZK |
-| Web app MVP | 5–7 days | 20 000 CZK |
-| Business automation tool | 5–10 days | 25 000 CZK |
-| Monthly retainer | Ongoing | 8 000 CZK/mo |
+| 🛠 Service | ⏱ Delivery |
+|---|---|
+| Landing page + AI chatbot | 6 hours - 3 days |
+| Web app MVP | 2–7 days  |
+| Business automation tool | 2–10 days  |
+| Monthly retainer | Ongoing |
 
 ---
 
@@ -83,9 +83,9 @@ No bloated agencies. No endless timelines. Just results — in days.
 
 Got a project in mind? Let's talk.
 
-** fastmvp.cz** · **📧 dan@fastmvp.cz** · **𝕏 @fastmvp_cz**
+**fastmvp.cz** · **dan@fastmvp.eu** · **@fastmvp_cz**
 
-> *"The best code is the code that ships." ⚡*
+> *"The best code is the code that ships." *
 
 <div align="center">
 
