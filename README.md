@@ -1,20 +1,21 @@
-## Hi there 👋
+# Fast MVP — DanDevaty
 
-I'm a self-motivated developer exploring full-stack development.  
+Building fast MVPs & AI automation for small businesses.
 
-### 🔹 About Me  
-- 🔭 Currently working on a **Django-React app**  
-- 🌱 Learning **React, Django, Python, PHP, Git/GitHub, and C#**  
-- 🛠 Skilled in **HTML, and basic Linux**  
-- 🚀 Passionate about building, breaking & fixing things 😅  
+ Delivering in days or even hours, not weeks
+ Powered by GitHub Copilot, Gemini & Cursor
+ Czech Republic → Europe
 
-### 🔹 Tech Stack  
-**Frontend:** HTML, CSS, JavaScript, React  
-**Backend:** Python (Django)
-**Tools & Other:** Git, GitHub, Linux basics  
+## 🔹 What I build
+- Landing pages + AI chatbots
+- Web apps & MVPs
+- Business automation tools
 
-### 🔹 How to reach me
-- devatda@student.uzlabina.cz
+## 🔹 Tech Stack
+**Frontend:** React, Next.js, HTML/CSS/JS
+**Backend:** Python, Django, Supabase
+**AI Tools:** GitHub Copilot Pro, Gemini Pro, Antigravity
 
-### 🔹 Favorite Quote  
-> "Code is like humor. When you have to explain it, it’s bad." - Cory House  
+## 🔹 Contact
+🌐 fastmvp.eu
+📧 daniel.devaty@gmail.com
