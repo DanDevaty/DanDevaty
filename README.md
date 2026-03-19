@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Fast MVP
+#  Fast MVP
 
 ### Building AI-powered MVPs for small businesses — delivered in days, not weeks.
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 I build fast, AI-powered MVPs and automation tools for small businesses and startups.
 No bloated agencies. No endless timelines. Just results — in days.
@@ -25,7 +25,7 @@ No bloated agencies. No endless timelines. Just results — in days.
 
 ---
 
-## 🤖 AI-Powered Stack
+##  AI-Powered Stack
 
 <div align="center">
 
@@ -44,9 +44,9 @@ No bloated agencies. No endless timelines. Just results — in days.
 
 ---
 
-## 🔥 Portfolio Projects
+##  Portfolio Projects
 
-### ⚡ AI Booking System
+###  AI Booking System
 > Reservation system for small businesses — built in 4 hours with AI.
 > Customers book online, admin gets instant email notifications.
 >
