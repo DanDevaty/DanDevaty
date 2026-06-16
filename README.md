@@ -4,7 +4,7 @@
 
 ### Building AI-powered MVPs for small businesses — delivered in days, not weeks.
 
-[![Website](https://img.shields.io/badge/🌐_fastmvp.cz-000000?style=for-the-badge)](https://fastmvp.cz)
+[![Website](https://img.shields.io/badge/🌐_fastmvp.eu-000000?style=for-the-badge)](https://fastmvp.eu)
 [![X](https://img.shields.io/badge/@fastmvp__cz-000000?style=for-the-badge&logo=x)](https://x.com/fastmvp_cz)
 
 </div>
